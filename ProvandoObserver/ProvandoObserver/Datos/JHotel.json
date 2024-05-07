@@ -1,0 +1,38 @@
+﻿[
+  {
+    "nombre": "Hotel Lungar",
+    "direccion": "Calle Principal 123",
+    "ciudad": "Cataluña",
+    "codigo_postal": "12345",
+    "pais": "España",
+    "telefono": "123-456-7890",
+    "email": "info@hotelejemplo.com",
+    "estrellas": 4,
+    "servicios": [
+      "Wi-Fi gratuito",
+      "Estacionamiento",
+      "Piscina",
+      "Gimnasio",
+      "Restaurante",
+      "Servicio de habitaciones",
+      "Spa"
+    ],
+    "habitaciones": [
+      {
+        "tipo": "Individual",
+        "precio_por_noche": 10,
+        "disponibilidad": 10
+      },
+      {
+        "tipo": "Doble",
+        "precio_por_noche": 15,
+        "disponibilidad": 8
+      },
+      {
+        "tipo": "Suite",
+        "precio_por_noche": 25,
+        "disponibilidad": 3
+      }
+    ]
+  }
+]

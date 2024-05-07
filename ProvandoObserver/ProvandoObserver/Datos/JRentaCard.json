@@ -1,0 +1,23 @@
+[
+  {
+    "renta_carro": {
+      "Autos": [
+        {
+          "Año": 2020,
+          "Color": "Blanco",
+          "Kilometraje": 20000,
+          "Marca": "Kia",
+          "Modelo": "Invento",
+          "Precio": 25000.50
+        }
+      ],
+      "AutosDisponibles": 6,
+      "Ciudad": "Ciudad Ejemplo",
+      "CodigoPostal": "54321",
+      "Direccion": "Calle Principal 456",
+      "NombreEmpresa": "RentaCar Ejemplo",
+      "Telefono": "789-123-4567"
+    }
+  }
+]
+

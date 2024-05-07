@@ -1,0 +1,50 @@
+[
+  {
+    "Año": 2020,
+    "Color": "Blanco",
+    "Kilometraje": 20000,
+    "Marca": "Toyota",
+    "Modelo": "Corolla",
+    "Precio": 25000.50
+  },
+  {
+    "Año": 2019,
+    "Color": "Negro", 
+    "Kilometraje": 18000,
+    "Marca": "Honda",
+    "Modelo": "Civic",
+    "Precio": 23000.75
+  },
+  {
+    "Año": 2021,
+    "Color": "Rojo",
+    "Kilometraje": 15000,
+    "Marca": "Ford",
+    "Modelo": "Mustang",
+    "Precio": 35000.00
+  },
+  {
+    "Año": 2018,
+    "Color": "Azul",
+    "Kilometraje": 22000,
+    "Marca": "Chevrolet",
+    "Modelo": "Camaro",
+    "Precio": 32000.25
+  },
+  {
+    "Año": 2022,
+    "Color": "Gris",
+    "Kilometraje": 10000,
+    "Marca": "Nissan",
+    "Modelo": "Sentra",
+    "Precio": 22000.50
+  },
+  {
+    "Año": 2017,
+    "Color": "Plata",
+    "Kilometraje": 28000,
+    "Marca": "Volkswagen",
+    "Modelo": "Jetta",
+    "Precio": 18000.00
+  }
+]

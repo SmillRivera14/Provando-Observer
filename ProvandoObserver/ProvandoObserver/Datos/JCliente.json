@@ -1,0 +1,62 @@
+[
+  {
+    "Nombre": "Smill Emmanuel",
+    "Email": "smillriveradiaz13@gmail.com",
+    "Edad": 30,
+    "Telefono": 1234567890
+  },
+  {
+    "Nombre": "Samuel",
+    "Email": "samueljr2e@gmail.com",
+    "Edad": 25,
+    "Telefono": 9876543210
+  },
+  {
+    "Nombre": "George Liriano",
+    "Email": "george2121@gmail.com",
+    "Edad": 40,
+    "Telefono": 5555555555
+  },
+  {
+    "Nombre": "Julio Mencia",
+    "Email": "juliomencia14@gmail.com",
+    "Edad": 28,
+    "Telefono": 4444444444
+  },
+  {
+    "Nombre": "Edwin Vasquez",
+    "Email": "vasquezedwin954@gmail.com",
+    "Edad": 35,
+    "Telefono": 7777777777
+  },
+  {
+    "Nombre": "Elio Reyes",
+    "Email": "eliottreyes22@gmail.com",
+    "Edad": 22,
+    "Telefono": 6666666666
+  },
+  {
+    "Nombre": "Chantall Abreu",
+    "Email": "chantal.abre2@gmail.com",
+    "Edad": 33,
+    "Telefono": 2222222222
+  },
+  {
+    "Nombre": "Cliente 8",
+    "Email": "cliente8@example.com",
+    "Edad": 27,
+    "Telefono": 999999999
+  },
+  {
+    "Nombre": "Cliente 9",
+    "Email": "cliente9@example.com",
+    "Edad": 31,
+    "Telefono": 1111111111
+  },
+  {
+    "Nombre": "Cliente 10",
+    "Email": "cliente10@example.com",
+    "Edad": 29,
+    "Telefono": 8888888888
+  }
+]

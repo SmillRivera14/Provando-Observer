@@ -1,0 +1,160 @@
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\appsettings.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.exe
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.deps.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.runtimeconfig.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.AssemblyReference.cache
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfoInputs.cache
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfo.cs
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.ProvandoObserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.build.ProvandoObserver.props
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProvandoObserver.props
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProvandoObserver.props
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\scopedcss\bundle\ProvandoObserver.styles.css
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CopyComplete
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\refint\ProvandoObserver.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.genruntimeconfig.cache
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ref\ProvandoObserver.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JCliente.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JHotel.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\EASendMail.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JAutos.json
+C:\Users\EMMANUEL\source\repos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JRentaCard.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\appsettings.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JAutos.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JCliente.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JHotel.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JRentaCard.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.exe
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.deps.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\EASendMail.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.ProvandoObserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.build.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\scopedcss\bundle\ProvandoObserver.styles.css
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CopyComplete
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\refint\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ref\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\appsettings.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JAutos.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JCliente.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JHotel.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Datos\JRentaCard.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.exe
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.deps.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\EASendMail.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.ProvandoObserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.build.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\scopedcss\bundle\ProvandoObserver.styles.css
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CopyComplete
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\refint\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver\ProvandoObserver\obj\Debug\net6.0\ref\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\appsettings.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Datos\JAutos.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Datos\JCliente.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Datos\JHotel.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Datos\JRentaCard.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.exe
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.deps.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\EASendMail.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.ProvandoObserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.build.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProvandoObserver.props
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\scopedcss\bundle\ProvandoObserver.styles.css
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.csproj.CopyComplete
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\refint\ProvandoObserver.dll
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.pdb
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ProvandoObserver.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\Corregir Códigos\ProvandoObserver - copia\ProvandoObserver\obj\Debug\net6.0\ref\ProvandoObserver.dll
